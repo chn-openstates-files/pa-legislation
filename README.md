@@ -1,4 +1,4 @@
-# 🏛️ pa legislation file tree
+# 🏛️ Pennsylvania legislation file tree
 
 Download a copy of your states legislation.
 
