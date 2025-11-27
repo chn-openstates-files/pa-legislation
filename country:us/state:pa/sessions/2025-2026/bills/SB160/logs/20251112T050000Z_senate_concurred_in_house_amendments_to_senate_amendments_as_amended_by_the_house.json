@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate concurred in House amendments to Senate amendments, as amended by the House",
+    "date": "2025-11-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 160"
+}

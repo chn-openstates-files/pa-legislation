@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reconsider the Vote by which the House Accepted the Report of the Veterans Affairs and Emergency Preparedness Committee that Contained Senate Bill 146",
+    "date": "2025-10-29T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 146"
+}
